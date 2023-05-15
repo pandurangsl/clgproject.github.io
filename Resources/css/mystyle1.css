@@ -1,0 +1,21 @@
+.bg-info{
+	background-color: #eef2f3!important;
+
+}
+img.imag {
+    width: 425px;
+    height: 450px;
+}
+
+.border-top {
+    border-top: 2px solid #8292a3!important;
+}
+.nav-item:hover{
+    background-color: greenyellow;
+}
+#our:hover{
+    color: deeppink;
+}
+ #testing:hover {
+      color: yellow;
+    }
